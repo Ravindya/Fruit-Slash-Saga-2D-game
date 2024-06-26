@@ -1,0 +1,283 @@
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+#character {
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 20px;
+    top: -20px;
+}
+#game-container {
+    position: relative;
+    width: 100%;
+}
+#score {
+    position: absolute;
+    top: 20px;
+    right: 150px;
+    /*background-color: rgba(255, 255, 255, 0.8);*/
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 30px;
+    font-family: "Bai Jamjuree";
+}
+
+
+    .rotate {
+    transform: rotateY(-180deg);
+}
+
+#platform {
+    width: 100%;
+    height: 128px;
+    position: absolute;
+    bottom: 0;
+    display: flex;
+
+    div {
+        height: 100%;
+
+        &:first-child {
+            width: 128px;
+            background-image: url('/image/tile/Tile (1).png');
+        }
+
+        &:nth-child(2){
+            flex-grow: 1;
+            background-image: url('/image/tile/Tile (2).png');
+        }
+
+        &:last-child {
+            width: 128px;
+            background-image: url('/image/tile/Tile (3).png');
+        }
+    }
+}
+
+body {
+    background-image: url('/image/BG.jpg');
+    background-size: cover;
+    /*background-position: top center;*/
+    overflow:hidden;
+}
+
+#overlay {
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.8);
+    display: flex;
+    justify-content: center;
+    color: white;
+    align-items: center;
+    flex-direction: column;
+    font-family: system-ui, sans-serif;
+    z-index: 1;
+    gap: 20px;
+
+
+    h1 {
+        text-shadow: 0 0 8px white;
+    }
+
+    #progress-bar {
+        width: 90%;
+        height: 10px;
+        background-color: #787878;
+        box-shadow: 0 0 4px 1px rgba(255, 255, 255, 0.66);
+        border-radius: 5px;
+
+        #bar {
+            width: 0;
+            height: 100%;
+            background-color: rgba(244, 244, 244, 0.94);
+            border-radius: 5px;
+            transition: width 500ms;
+        }
+    }
+}
+
+.hide {
+    animation: fade 700ms forwards;
+}
+
+.hide > * {
+    display: none;
+}
+
+@keyframes fade {
+    from {
+        transform: scaleY(1);
+    }
+    to {
+        transform: scaleY(0);
+    }
+}
+
+#start-screen {
+    position: fixed;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgb(23, 0, 32);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 2;
+    flex-direction: column;
+    gap: 10px;
+
+    button {
+        padding: 10px 20px;
+        font-size: 2rem;
+        font-weight: bold;
+        font-family: system-ui, sans-serif;
+        border-radius: 10px;
+        background-color: #ffffff;
+        border: none;
+        box-shadow: 0 0 4px 2px white;
+        cursor: pointer;
+
+        &:hover {
+            box-shadow: 0 0 4px 4px white;
+        }
+
+        &:active {
+            box-shadow: 0 0 4px 4px white,  inset 0 0 5px 3px #8a8a8a;
+        }
+    }
+
+    h2 {
+        font-family: system-ui, sans-serif;
+        color: white;
+        margin-bottom: 20px;
+        text-align: center;
+        font-size: 1.8rem;
+
+        span {
+            font-size: 3rem;
+            vertical-align: sub;
+            color: lawngreen;
+            text-shadow: 1px 1px 9px #7aff01;
+        }
+    }
+
+    #footer {
+        color: white;
+        font-family: system-ui, sans-serif;
+        margin-top: 40px;
+        font-size: small;
+    }
+}
+.fruit {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    z-index: 1; /* Ensure fruits appear above background */
+}
+.sliced {
+    background-image: url('/image/fruits/cut_avocado.png'); /* Placeholder for sliced effect */
+    transition: opacity 0.2s ease-out;
+    opacity: 0; /* Initially hidden after slicing */
+}
+#game-over {
+    width: 400px;
+    height: 250px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(144, 238, 144, 0.7);
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    z-index: 3;
+    font-family: system-ui, sans-serif;
+    display: none;
+
+    h1 {
+        font-size: 3rem;
+        margin-bottom: 20px;
+    }
+    p{
+        font-size: 2rem;
+    }
+
+    button {
+        margin: 20px;
+        padding: 10px 20px;
+        font-size: 1.2rem;
+        font-family: system-ui, sans-serif;
+        border-radius: 10px;
+        background-color: #ffffff;
+        border: none;
+        cursor: pointer;
+
+        &:hover {
+            background-color: #dddddd;
+        }
+    }
+}
+#game-win {
+    width: 400px;
+    height: 250px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(144, 238, 144, 0.7);
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    z-index: 3;
+    font-family: system-ui, sans-serif;
+    display: none;
+
+    h1 {
+        font-size: 3rem;
+        margin-bottom: 20px;
+    }
+    p{
+        font-size: 2rem;
+    }
+
+    button {
+        margin: 20px;
+        padding: 10px 20px;
+        font-size: 1.2rem;
+        font-family: system-ui, sans-serif;
+        border-radius: 10px;
+        background-color: #ffffff;
+        border: none;
+        cursor: pointer;
+
+        &:hover {
+            background-color: #dddddd;
+        }
+    }
+}
+
+#winingcup-count{
+    position: absolute;
+    top: 20px;
+    left: 150px;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 30px;
+    font-family: "Bai Jamjuree";
+}
+
+
