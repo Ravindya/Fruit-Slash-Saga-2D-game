@@ -57,7 +57,7 @@ npm run dev
 ## Usage
 To play the game, open your browser and navigate to the Firebase-hosted URL or run it locally using the development server.
 
-## Contributing
+## Contribution
 Contributions are welcome! If you have suggestions for improvements or new features, please open an issue or create a pull request. Follow these steps to contribute:
 
 Fork the repository.
