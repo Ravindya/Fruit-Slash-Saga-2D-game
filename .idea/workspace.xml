@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dc30c68a-374a-45e1-bd4a-05340cf2611d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Game-01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Game-02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Game-03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Game-04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Game-05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Game-06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Game-07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Game-08.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Game-09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Game-10.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/fruit-cutting-game.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/index-B6RfqHij.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/index-Dcn3SBLv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/BG.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Attack__000.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Attack__001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Attack__002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Attack__003.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Attack__004.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Attack__005.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Attack__006.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Attack__007.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Attack__008.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Attack__009.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Climb_000.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Climb_001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Climb_002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Climb_003.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Climb_004.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Climb_005.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Climb_006.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Climb_007.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Climb_008.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Climb_009.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Dead__000.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Dead__001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Dead__002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Dead__003.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Dead__004.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Dead__005.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Dead__006.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Dead__007.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Dead__008.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Dead__009.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Glide_000.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Glide_001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Glide_002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Glide_003.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Glide_004.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Glide_005.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Glide_006.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Glide_007.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Glide_008.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Glide_009.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Idle__000.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Idle__001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Idle__002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Idle__003.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Idle__004.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Idle__005.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Idle__006.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Idle__007.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Idle__008.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Idle__009.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Jump_Attack__000.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Jump_Attack__001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Jump_Attack__002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Jump_Attack__003.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Jump_Attack__004.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Jump_Attack__005.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Jump_Attack__006.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Jump_Attack__007.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Jump_Attack__008.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Jump_Attack__009.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Jump_Throw__000.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Jump_Throw__001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Jump_Throw__002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Jump_Throw__003.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Jump_Throw__004.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Jump_Throw__005.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Jump_Throw__006.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Jump_Throw__007.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Jump_Throw__008.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Jump_Throw__009.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Jump__000.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Jump__001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Jump__002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Jump__003.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Jump__004.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Jump__005.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Jump__006.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Jump__007.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Jump__008.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Jump__009.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Kunai.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Run__000.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Run__001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Run__002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Run__003.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Run__004.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Run__005.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Run__006.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Run__007.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Run__008.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Run__009.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Slide__000.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Slide__001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Slide__002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Slide__003.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Slide__004.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Slide__005.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Slide__006.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Slide__007.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Slide__008.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Slide__009.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Throw__000.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Throw__001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Throw__002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Throw__003.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Throw__004.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Throw__005.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Throw__006.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Throw__007.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Throw__008.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/character/Throw__009.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/fruits/avocado.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/fruits/bananas.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/fruits/cherry.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/fruits/coconut.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/fruits/cut_avocado.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/fruits/cut_coconut.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/fruits/cut_green_apple.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/fruits/cut_lemon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/fruits/cut_orange.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/fruits/cut_peach.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/fruits/cut_pear.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/fruits/cut_red_apple.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/fruits/cut_strawberry.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/fruits/cut_watermelon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/fruits/empty_avocado.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/fruits/fruitbomb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/fruits/grapes.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/fruits/green_apple.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/fruits/lemon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/fruits/orange.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/fruits/peach.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/fruits/pear.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/fruits/red_apple.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/fruits/strawberry.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/fruits/watermelon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/fruits/winingcup.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/tile/Tile (1).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/tile/Tile (2).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/image/tile/Tile (3).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/music/background-music.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/music/gift-music.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/music/lose-game.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/music/win-game-music.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/vite.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/esbuild" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/nanoid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/rollup" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/vite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/_metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@esbuild/darwin-arm64/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@esbuild/darwin-arm64/bin/esbuild" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@esbuild/darwin-arm64/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@rollup/rollup-darwin-arm64/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@rollup/rollup-darwin-arm64/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@rollup/rollup-darwin-arm64/rollup.darwin-arm64.node" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/estree/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/estree/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/estree/flow.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/estree/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/estree/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/esbuild/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/esbuild/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/esbuild/bin/esbuild" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/esbuild/install.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/esbuild/lib/main.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/esbuild/lib/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/esbuild/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nanoid/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nanoid/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nanoid/async/index.browser.cjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nanoid/async/index.browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nanoid/async/index.cjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nanoid/async/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nanoid/async/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nanoid/async/index.native.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nanoid/async/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nanoid/bin/nanoid.cjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nanoid/index.browser.cjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nanoid/index.browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nanoid/index.cjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nanoid/index.d.cts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nanoid/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nanoid/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nanoid/nanoid.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nanoid/non-secure/index.cjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nanoid/non-secure/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nanoid/non-secure/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nanoid/non-secure/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nanoid/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nanoid/url-alphabet/index.cjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nanoid/url-alphabet/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nanoid/url-alphabet/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/picocolors/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/picocolors/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/picocolors/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/picocolors/picocolors.browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/picocolors/picocolors.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/picocolors/picocolors.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/picocolors/types.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/postcss/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/postcss/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/postcss/lib/at-rule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/postcss/lib/at-rule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/postcss/lib/comment.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/postcss/lib/comment.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/postcss/lib/container.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/postcss/lib/container.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/postcss/lib/css-syntax-error.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/postcss/lib/css-syntax-error.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/postcss/lib/declaration.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/postcss/lib/declaration.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/postcss/lib/document.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/postcss/lib/document.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/postcss/lib/fromJSON.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/postcss/lib/fromJSON.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/postcss/lib/input.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/postcss/lib/input.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/postcss/lib/lazy-result.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/postcss/lib/lazy-result.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/postcss/lib/list.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/postcss/lib/list.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/postcss/lib/map-generator.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/postcss/lib/no-work-result.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/postcss/lib/no-work-result.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/postcss/lib/node.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/postcss/lib/node.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/postcss/lib/parse.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/postcss/lib/parse.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/postcss/lib/parser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/postcss/lib/postcss.d.mts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/postcss/lib/postcss.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/postcss/lib/postcss.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/postcss/lib/postcss.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/postcss/lib/previous-map.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/postcss/lib/previous-map.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/postcss/lib/processor.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/postcss/lib/processor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/postcss/lib/result.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/postcss/lib/result.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/postcss/lib/root.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/postcss/lib/root.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/postcss/lib/rule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/postcss/lib/rule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/postcss/lib/stringifier.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/postcss/lib/stringifier.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/postcss/lib/stringify.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/postcss/lib/stringify.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/postcss/lib/symbols.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/postcss/lib/terminal-highlight.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/postcss/lib/tokenize.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/postcss/lib/warn-once.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/postcss/lib/warning.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/postcss/lib/warning.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/postcss/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/rollup/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/rollup/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/rollup/dist/bin/rollup" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/rollup/dist/es/getLogFilter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/rollup/dist/es/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/rollup/dist/es/parseAst.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/rollup/dist/es/rollup.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/rollup/dist/es/shared/node-entry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/rollup/dist/es/shared/parseAst.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/rollup/dist/es/shared/watch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/rollup/dist/getLogFilter.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/rollup/dist/getLogFilter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/rollup/dist/loadConfigFile.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/rollup/dist/loadConfigFile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/rollup/dist/native.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/rollup/dist/parseAst.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/rollup/dist/parseAst.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/rollup/dist/rollup.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/rollup/dist/rollup.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/rollup/dist/shared/fsevents-importer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/rollup/dist/shared/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/rollup/dist/shared/loadConfigFile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/rollup/dist/shared/parseAst.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/rollup/dist/shared/rollup.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/rollup/dist/shared/watch-cli.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/rollup/dist/shared/watch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/rollup/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/source-map-js/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/source-map-js/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/source-map-js/lib/array-set.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/source-map-js/lib/base64-vlq.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/source-map-js/lib/base64.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/source-map-js/lib/binary-search.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/source-map-js/lib/mapping-list.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/source-map-js/lib/quick-sort.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/source-map-js/lib/source-map-consumer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/source-map-js/lib/source-map-generator.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/source-map-js/lib/source-node.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/source-map-js/lib/util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/source-map-js/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/source-map-js/source-map.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/source-map-js/source-map.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vite/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vite/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vite/bin/openChrome.applescript" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vite/bin/vite.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vite/client.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vite/dist/client/client.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vite/dist/client/env.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vite/dist/node-cjs/publicUtils.cjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vite/dist/node/chunks/dep-C-hCBY92.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vite/dist/node/chunks/dep-CrWVpuYf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vite/dist/node/chunks/dep-DfBmsS12.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vite/dist/node/chunks/dep-IQS-Za7F.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vite/dist/node/chunks/dep-h78lQ5BT.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vite/dist/node/cli.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vite/dist/node/constants.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vite/dist/node/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vite/dist/node/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vite/dist/node/runtime.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vite/dist/node/runtime.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vite/dist/node/types.d-aGj9QkWt.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vite/index.cjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vite/index.d.cts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vite/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vite/types/customEvent.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vite/types/hmrPayload.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vite/types/hot.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vite/types/import-meta.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vite/types/importGlob.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vite/types/importMeta.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vite/types/metadata.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vite/types/package.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2iOlIv64eW8pq6lEK4WPHonEJrd" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/sahirujayasooriya/Documents/dep 12/last-phase/web-api/projects/fruit-cutting-game",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "npm.build.executor": "Run",
+    "npm.dev.executor": "Run",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.dev">
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.dev" />
+        <item itemvalue="npm.build" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.15989.150" />
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-IU-241.15989.150" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dc30c68a-374a-45e1-bd4a-05340cf2611d" name="Changes" comment="" />
+      <created>1719369428013</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1719369428013</updated>
+      <workItem from="1719369429148" duration="1254000" />
+      <workItem from="1719747892121" duration="73000" />
+      <workItem from="1719748246138" duration="4975000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
